@@ -1,5 +1,9 @@
 # Awesome Agent Memory
 
+A curated taxonomy of **agent memory systems**, organized along four axes: (1) memory system architectures — from flat sequential context, to structural topological graphs/trees, to multi-paradigm hybrid containers; (2) reference baselines for comparison; (3) benchmarks for evaluation; and (4) surveys on agent memory.
+
+![](AgentMemory.png)
+
 ## Table of Contents
 
 - [Memory Systems](#memory-systems)
@@ -11,6 +15,7 @@
   - [Retrieval-Based Baselines](#retrieval-based-baselines)
 - [Benchmarks](#benchmarks)
 - [Surveys on Agent Memory](#surveys-on-agent-memory)
+
 
 
 ## Memory Systems
@@ -74,6 +79,8 @@ Systems that package memory into complex, multi-part data containers combining u
 
 [⬆️top](#table-of-contents)
 
+
+
 ## Reference Baselines
 
 ### Context-Based Baselines
@@ -94,9 +101,11 @@ Systems that package memory into complex, multi-part data containers combining u
 
 [⬆️top](#table-of-contents)
 
+
+
 ## Benchmarks
 
-The following benchmarks are used to evaluate agent memory systems across five research questions (RQ1--RQ5), covering task effectiveness, retrieval fidelity, update robustness, long-horizon stability, and operational cost.
+The following benchmarks are used to evaluate agent memory systems, covering task effectiveness, retrieval fidelity, update robustness, long-horizon stability, and operational cost.
 
 1. **LoCoMo: Evaluating Very Long-Term Conversational Memory of LLM Agents**
    Adyasha Maharana, Dong-Ho Lee, Sergey Turishcheva, et al. *ACL 2024*. [[Paper](https://arxiv.org/abs/2402.10790)]
@@ -124,6 +133,8 @@ The following benchmarks are used to evaluate agent memory systems across five r
 
 [⬆️top](#table-of-contents)
 
+
+
 ## Surveys on Agent Memory
 
 1. **A Survey on the Memory Mechanism of Large Language Model based Agents**
@@ -146,7 +157,11 @@ The following benchmarks are used to evaluate agent memory systems across five r
 
 [⬆️top](#table-of-contents)
 
-```
+
+
+## Citation
+
+```bibtex
 @article{memoryasdata,
     title={Are We Ready For An Agent-Native Memory System?},
     author={Wei Zhou and Xuanhe Zhou and Shaokun Han and Hongming Xu and Guoliang Li and Zhiyu Li and Feiyu Xiong and Fan Wu},
