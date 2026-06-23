@@ -11,7 +11,6 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Memory Systems](#memory-systems)
   - [Sequential Context](#sequential-context)
   - [Structural Topological](#structural-topological)
@@ -22,16 +21,6 @@
 - [Benchmarks](#benchmarks)
 - [Surveys on Agent Memory](#surveys-on-agent-memory)
 
-## Overview
-
-Agent memory has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, update, consolidation, and dynamic lifecycle governance throughout agent execution. The paper decomposes agent memory into four core modules:
-
-1. **Memory Representation and Storage** -- defines the logical and physical memory format
-2. **Memory Extraction** -- transforms raw input streams into logical memory primitives
-3. **Memory Retrieval and Routing** -- dynamically identifies and extracts relevant historical context
-4. **Memory Maintenance** -- governs the dynamic lifecycle of memory entries (conflict resolution, capacity management, semantic consolidation)
-
-[⬆️top](#table-of-contents)
 
 ## Memory Systems
 
