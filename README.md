@@ -1,14 +1,5 @@
 # Awesome Agent Memory
 
-```
-@article{memoryasdata,
-    title={Are We Ready For An Agent-Native Memory System?},
-    author={Wei Zhou and Xuanhe Zhou and Shaokun Han and Hongming Xu and Guoliang Li and Zhiyu Li and Feiyu Xiong and Fan Wu},
-    year={2026},
-    note={Under review}
-}
-```
-
 ## Table of Contents
 
 - [Memory Systems](#memory-systems)
@@ -154,3 +145,11 @@ The following benchmarks are used to evaluate agent memory systems across five r
    Junhao Zheng, Chengming Shi, Xidi Cai, et al. *IEEE Transactions on Pattern Analysis and Machine Intelligence 2025*. [[Paper](https://arxiv.org/abs/2501.07278)]
 
 [⬆️top](#table-of-contents)
+
+```
+@article{memoryasdata,
+    title={Are We Ready For An Agent-Native Memory System?},
+    author={Wei Zhou and Xuanhe Zhou and Shaokun Han and Hongming Xu and Guoliang Li and Zhiyu Li and Feiyu Xiong and Fan Wu},
+    year={2026}
+}
+```
