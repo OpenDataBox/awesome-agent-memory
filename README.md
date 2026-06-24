@@ -165,6 +165,8 @@ The following benchmarks are used to evaluate agent memory systems, covering tas
 @article{memoryasdata,
     title={Are We Ready For An Agent-Native Memory System?},
     author={Wei Zhou and Xuanhe Zhou and Shaokun Han and Hongming Xu and Guoliang Li and Zhiyu Li and Feiyu Xiong and Fan Wu},
-    year={2026}
+    year={2026},
+    journal={arXiv preprint arXiv:2606.24775},
+    url={https://arxiv.org/abs/2606.24775}
 }
 ```
