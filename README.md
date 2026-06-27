@@ -77,6 +77,10 @@ Systems that package memory into complex, multi-part data containers combining u
 14. **Letta (MemGPT): Towards LLMs as Operating Systems**
     Charles Packer, Vivian Fang, Shishir G. Patil, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08560)] [[Github](https://github.com/letta-ai/letta)]
 
+15. **FluctlightDB: A Memory Model of Data for AI Agents**
+    Ganesh S. *Zenodo 2026*. [[Paper](https://doi.org/10.5281/zenodo.20949890)] [[Github](https://github.com/voxmastery/FluctlightDB)]
+    Embedded database engine for AI agents with native `experience()`/`activate()` operations and hybrid episodic-vector retrieval.
+
 [⬆️top](#table-of-contents)
 
 
