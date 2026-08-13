@@ -2452,6 +2452,10 @@ Paper-backed implementations are linked beside their papers above. The following
    OpenDataBox. [[GitHub](https://github.com/OpenDataBox/MemoryData)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Evaluation_Platform-purple) ![](https://img.shields.io/badge/-Memory_Systems-purple) ![](https://img.shields.io/badge/-Datasets-lightgrey)
 
+1. **Lians**\
+   Lians. [[GitHub](https://github.com/Lians-ai/Lians)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
 1. **Agent Memory Paper List**\
    Shichun-Liu. [[GitHub](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
