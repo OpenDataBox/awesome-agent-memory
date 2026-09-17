@@ -2480,6 +2480,10 @@ Paper-backed implementations are linked beside their papers above. The following
    AgentMemoryWorld. [[GitHub](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Foundation_Agents-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
 
+1. **Mnemoverse**\
+   Mnemoverse. [[GitHub](https://github.com/mnemoverse/mcp-memory-server)] [[Docs](https://mnemoverse.com/docs/api/mcp-server)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Hosted_Memory-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
