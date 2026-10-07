@@ -2,6 +2,7 @@
 
 A curated taxonomy of **agent memory systems**, organized along four axes: (1) memory system architectures — from flat sequential context, to structural topological graphs/trees, to multi-paradigm hybrid containers; (2) reference baselines for comparison; (3) benchmarks for evaluation; and (4) surveys on agent memory.
 
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with tamper-evident evidence chain (EU AI Act Art.12), supersession chains, bi-temporal timestamps, human conflict adjudication, Q-Value ranking, and 23 client adapters. 334 tests. Apache-2.0.
 ## 📣 Get Involved
 
 - 📊 **Looking for a testbed to evaluate agent memory systems?** See our companion repo [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) — an integrated platform of memory systems and datasets.
@@ -1842,6 +1843,11 @@ Systems combining multiple memory representations, stores, modalities, time scal
 
 [⬆️ top](#table-of-contents)
 
+
+1. **MemTether: Cross-Client AI Memory Hub with File-Level Pointers, Dual-Timeline Governance, and Conflict-Aware Exchange**\
+   Codex (AI agent) & user. *Open-source 2026*. [[GitHub](https://github.com/MemTether/MemTether)] [[PyPI](https://pypi.org/project/memtether/)]\
+   ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Memory_Management-orange)
+   Multi-client shared memory hub where heterogeneous AI agents (Codex, WorkBuddy, OpenClaw, etc.) read/write the same physical SQLite database via file-level pointers (junction/symlink) — no server, no sync, zero API cost. Features: dual-timeline (valid/recorded), supersession version chains, Q-Value reinforcement with time decay, FTS5+BM25+vector+literal 4-way hybrid retrieval with RRF fusion and cross-encoder reranking, hubguard cross-process locking, Memory Exchange Schema v1 with conflict detection and 5 cross-system import adapters (Mem0/Zep/Letta/Graphiti/LangMem), PII sanitization, and 23-client auto-connect. LongMemEval 500Q: strict 59.6%, LLM-judge 64.2% (retrieval-based harness).
 ### 1.4 Baselines and Supporting Methods
 
 Foundational retrieval, reasoning, reflection, and context-management methods commonly used as baselines or components in agent-memory studies.
