@@ -2,6 +2,7 @@
 
 A curated taxonomy of **agent memory systems**, organized along four axes: (1) memory system architectures — from flat sequential context, to structural topological graphs/trees, to multi-paradigm hybrid containers; (2) reference baselines for comparison; (3) benchmarks for evaluation; and (4) surveys on agent memory.
 
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with tamper-evident evidence chain (EU AI Act Art.12), supersession chains, bi-temporal timestamps, human conflict adjudication, Q-Value ranking, and 23 client adapters. 334 tests. Apache-2.0.
 ## 📣 Get Involved
 
 - 📊 **Looking for a testbed to evaluate agent memory systems?** See our companion repo [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) — an integrated platform of memory systems and datasets.
