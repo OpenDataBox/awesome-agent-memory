@@ -2000,6 +2000,10 @@ Each benchmark appears once under its primary evaluation purpose; third-line tag
 
 Benchmarks centered on answer quality, task success, action correctness, or end-to-end agent capability.
 
+1. **EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**\
+   Lizhou Liang, Xinyu Zhong, Miao Pan, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)]\
+   ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Multimodal-purple)
+
 1. **StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**\
    Yerong Wu, Tianxing Wu, Minghao Zhu, et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2604.26243)]\
    ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Retrieval-green)
