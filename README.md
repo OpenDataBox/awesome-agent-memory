@@ -2488,6 +2488,10 @@ Paper-backed implementations are linked beside their papers above. The following
    AgentMemoryWorld. [[GitHub](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Foundation_Agents-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
 
+1. **MemTether**\
+   MemTether. [[GitHub](https://github.com/MemTether/MemTether)]\
+   ![](https://img.shields.io/badge/-System-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-lightgrey) ![](https://img.shields.io/badge/-Memory_Governance-purple) ![](https://img.shields.io/badge/-Cross_Client-yellowgreen)
+
 1. **GoodMemory**\
    hjqcan. [[GitHub](https://github.com/hjqcan/GoodMemory)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
