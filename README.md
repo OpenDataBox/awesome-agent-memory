@@ -2452,10 +2452,6 @@ Paper-backed implementations are linked beside their papers above. The following
    OpenDataBox. [[GitHub](https://github.com/OpenDataBox/MemoryData)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Evaluation_Platform-purple) ![](https://img.shields.io/badge/-Memory_Systems-purple) ![](https://img.shields.io/badge/-Datasets-lightgrey)
 
-1. **GoodMemory**\
-   hjqcan. [[GitHub](https://github.com/hjqcan/GoodMemory)]\
-   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
-
 1. **Agent Memory Paper List**\
    Shichun-Liu. [[GitHub](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
@@ -2483,6 +2479,10 @@ Paper-backed implementations are linked beside their papers above. The following
 1. **Awesome Agent Memory (Foundation Agents)**\
    AgentMemoryWorld. [[GitHub](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Foundation_Agents-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
+
+1. **GoodMemory**\
+   hjqcan. [[GitHub](https://github.com/hjqcan/GoodMemory)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
 [⬆️ top](#table-of-contents)
 
