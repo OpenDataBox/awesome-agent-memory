@@ -1600,6 +1600,10 @@ Systems combining multiple memory representations, stores, modalities, time scal
    Yi Yu, Liuyi Yao, Yuexiang Xie, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2601.01885)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Working-purple) ![](https://img.shields.io/badge/-Lifecycle-orange)
 
+1. **FluctlightDB: A Memory Model of Data for AI Agents**\
+    Ganesh S. *Zenodo 2026*. [[Paper](https://doi.org/10.5281/zenodo.20949890)] [[Github](https://github.com/voxmastery/FluctlightDB)]\
+   ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple)
+
 1. **VideoLucy: Deep Memory Backtracking for Long Video Understanding**\
    Jialong Zuo, Yongtai Deng, Lingdong Kong, et al. *NeurIPS 2025*. [[Paper](https://arxiv.org/abs/2510.12422)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Multimodal-purple)
@@ -1999,6 +2003,10 @@ Each benchmark appears once under its primary evaluation purpose; third-line tag
 ### 2.1 Effectiveness Evaluation
 
 Benchmarks centered on answer quality, task success, action correctness, or end-to-end agent capability.
+
+1. **EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**\
+   Lizhou Liang, Xinyu Zhong, Miao Pan, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)]\
+   ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Multimodal-purple)
 
 1. **StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**\
    Yerong Wu, Tianxing Wu, Minghao Zhu, et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2604.26243)]\
@@ -2483,6 +2491,14 @@ Paper-backed implementations are linked beside their papers above. The following
 1. **MemTether**\
    MemTether. [[GitHub](https://github.com/MemTether/MemTether)]\
    ![](https://img.shields.io/badge/-System-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-lightgrey) ![](https://img.shields.io/badge/-Memory_Governance-purple) ![](https://img.shields.io/badge/-Cross_Client-yellowgreen)
+
+1. **GoodMemory**\
+   hjqcan. [[GitHub](https://github.com/hjqcan/GoodMemory)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
+1. **Mnemoverse**\
+   Mnemoverse. [[GitHub](https://github.com/mnemoverse/mcp-memory-server)] [[Docs](https://mnemoverse.com/docs/api/mcp-server)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Hosted_Memory-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
 [⬆️ top](#table-of-contents)
 
