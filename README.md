@@ -1842,7 +1842,9 @@ Systems combining multiple memory representations, stores, modalities, time scal
 
 [⬆️ top](#table-of-contents)
 
+### 1.4 Baselines and Supporting Methods
 
+Foundational retrieval, reasoning, reflection, and context-management methods commonly used as baselines or components in agent-memory studies.
 
 1. **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning**\
    Jiachen Qian. *ACL 2026*. [[Paper](https://arxiv.org/abs/2604.16966)]\
@@ -2444,9 +2446,6 @@ Benchmarks and studies exposing latency, token use, context scaling, constructio
 
 ## 4. Frameworks, Products, and Resources
 
-- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with tamper-evident evidence chain, bi-temporal supersession, and conflict gate. Local-first SQLite, 23 client adapters, MCP + REST + npm.
-Paper-backed implementations are linked beside their papers above. The following broader platforms and curated collections were used as complementary sources and are useful for continued tracking.
-
 1. **MemoryData**\
    OpenDataBox. [[GitHub](https://github.com/OpenDataBox/MemoryData)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Evaluation_Platform-purple) ![](https://img.shields.io/badge/-Memory_Systems-purple) ![](https://img.shields.io/badge/-Datasets-lightgrey)
@@ -2478,6 +2477,10 @@ Paper-backed implementations are linked beside their papers above. The following
 1. **Awesome Agent Memory (Foundation Agents)**\
    AgentMemoryWorld. [[GitHub](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Foundation_Agents-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
+
+1. **MemTether**\
+   MemTether. [[GitHub](https://github.com/MemTether/MemTether)]\
+   ![](https://img.shields.io/badge/-System-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-lightgrey) ![](https://img.shields.io/badge/-Memory_Governance-purple) ![](https://img.shields.io/badge/-Cross_Client-yellowgreen)
 
 [⬆️ top](#table-of-contents)
 
