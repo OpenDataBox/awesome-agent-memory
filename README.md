@@ -1600,6 +1600,10 @@ Systems combining multiple memory representations, stores, modalities, time scal
    Yi Yu, Liuyi Yao, Yuexiang Xie, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2601.01885)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Working-purple) ![](https://img.shields.io/badge/-Lifecycle-orange)
 
+1. **FluctlightDB: A Memory Model of Data for AI Agents**\
+    Ganesh S. *Zenodo 2026*. [[Paper](https://doi.org/10.5281/zenodo.20949890)] [[Github](https://github.com/voxmastery/FluctlightDB)]\
+   ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple)
+
 1. **VideoLucy: Deep Memory Backtracking for Long Video Understanding**\
    Jialong Zuo, Yongtai Deng, Lingdong Kong, et al. *NeurIPS 2025*. [[Paper](https://arxiv.org/abs/2510.12422)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Multimodal-purple)
