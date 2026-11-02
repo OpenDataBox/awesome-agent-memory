@@ -2496,7 +2496,7 @@ Paper-backed implementations are linked beside their papers above. The following
    Mnemoverse. [[GitHub](https://github.com/mnemoverse/mcp-memory-server)] [[Docs](https://mnemoverse.com/docs/api/mcp-server)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Hosted_Memory-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
-1. **deja-vu**\
+1. **deja-vu (Cross-Agent Coding Session Memory)**\
    vshulcz. [[GitHub](https://github.com/vshulcz/deja-vu)] [[Docs](https://vshulcz.github.io/deja-vu/)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
