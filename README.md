@@ -2,7 +2,6 @@
 
 A curated taxonomy of **agent memory systems**, organized along four axes: (1) memory system architectures — from flat sequential context, to structural topological graphs/trees, to multi-paradigm hybrid containers; (2) reference baselines for comparison; (3) benchmarks for evaluation; and (4) surveys on agent memory.
 
-- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with tamper-evident evidence chain (EU AI Act Art.12), supersession chains, bi-temporal timestamps, human conflict adjudication, Q-Value ranking, and 23 client adapters. 334 tests. Apache-2.0.
 ## 📣 Get Involved
 
 - 📊 **Looking for a testbed to evaluate agent memory systems?** See our companion repo [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) — an integrated platform of memory systems and datasets.
@@ -1844,13 +1843,6 @@ Systems combining multiple memory representations, stores, modalities, time scal
 [⬆️ top](#table-of-contents)
 
 
-1. **MemTether: Cross-Client AI Memory Hub with File-Level Pointers, Dual-Timeline Governance, and Conflict-Aware Exchange**\
-   Codex (AI agent) & user. *Open-source 2026*. [[GitHub](https://github.com/MemTether/MemTether)] [[PyPI](https://pypi.org/project/memtether/)]\
-   ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Memory_Management-orange)
-   Multi-client shared memory hub where heterogeneous AI agents (Codex, WorkBuddy, OpenClaw, etc.) read/write the same physical SQLite database via file-level pointers (junction/symlink) — no server, no sync, zero API cost. Features: dual-timeline (valid/known) queries, supersession chains that never delete, a tamper-evident audit hash chain (`court --verify`), deterministic write-time conflict detection, and layered recall (L0/L1/L2). Benchmarks (2026-10): LongMemEval 500Q strict 62.4% / LLM-judge 68.8% (multi-session judge 79.7% vs mem0 60.2%); LoCoMo 1986Q token-F1 0.523 (4th of 10 systems). 23 client adapters, 615 tests.
-### 1.4 Baselines and Supporting Methods
-
-Foundational retrieval, reasoning, reflection, and context-management methods commonly used as baselines or components in agent-memory studies.
 
 1. **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning**\
    Jiachen Qian. *ACL 2026*. [[Paper](https://arxiv.org/abs/2604.16966)]\
@@ -2452,6 +2444,7 @@ Benchmarks and studies exposing latency, token use, context scaling, constructio
 
 ## 4. Frameworks, Products, and Resources
 
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with tamper-evident evidence chain, bi-temporal supersession, and conflict gate. Local-first SQLite, 23 client adapters, MCP + REST + npm.
 Paper-backed implementations are linked beside their papers above. The following broader platforms and curated collections were used as complementary sources and are useful for continued tracking.
 
 1. **MemoryData**\
