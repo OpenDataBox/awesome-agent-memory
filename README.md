@@ -2446,25 +2446,7 @@ Benchmarks and studies exposing latency, token use, context scaling, constructio
 
 ## 4. Frameworks, Products, and Resources
 
-
-## 4. Frameworks, Products, and Resources
-
 Paper-backed implementations are linked beside their papers above. The following broader platforms and curated collections were used as complementary sources and are useful for continued tracking.
-
-1. **MemoryData**\
-OpenDataBox. [[GitHub](https://github.com/OpenDataBox/MemoryData)]\
-![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Evaluation_Platform-purple) ![](https://img.shields.io/badge/-Memory_Systems-purple) ![](https://img.shields.io/badge/-Datasets-lightgrey)
-@@ -2480,6 +2478,10 @@ Paper-backed implementations are linked beside their papers above. The following
-AgentMemoryWorld. [[GitHub](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]\
-![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Paper_List-lightgrey) ![](https://img.shields.io/badge/-Foundation_Agents-purple) ![](https://img.shields.io/badge/-Taxonomy-yellowgreen)
-
-1. **MemTether**\
-   MemTether. [[GitHub](https://github.com/MemTether/MemTether)]\
-   ![](https://img.shields.io/badge/-System-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-lightgrey) ![](https://img.shields.io/badge/-Memory_Governance-purple) ![](https://img.shields.io/badge/-Cross_Client-yellowgreen)
-
-[⬆️ top](#table-of-contents)
-
-## Citation
 
 1. **MemoryData**\
    OpenDataBox. [[GitHub](https://github.com/OpenDataBox/MemoryData)]\
