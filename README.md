@@ -2504,6 +2504,10 @@ Paper-backed implementations are linked beside their papers above. The following
    vshulcz. [[GitHub](https://github.com/vshulcz/deja-vu)] [[Docs](https://vshulcz.github.io/deja-vu/)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
+1. **Atris (Project Memory for Coding Agents)**\
+   atrislabs. [[GitHub](https://github.com/atrislabs/atris)] [[Guide](https://atris.ai/blog/memory-for-coding-agents)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Project_Memory-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-Markdown-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
