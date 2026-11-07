@@ -2504,6 +2504,11 @@ Paper-backed implementations are linked beside their papers above. The following
    vshulcz. [[GitHub](https://github.com/vshulcz/deja-vu)] [[Docs](https://vshulcz.github.io/deja-vu/)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
+1. **agent-qa**\
+   vostride. [[Website](https://vostride.com)] [[GitHub](https://github.com/vostride/agent-qa)] [[Memory docs](https://vostride.com/docs/agent-qa/memory)]\
+   Persistent memidex app memory turns verified QA evidence into reusable facts, cautions and procedures for web/mobile testing. Evidence-gated self-improvement; [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md).\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
