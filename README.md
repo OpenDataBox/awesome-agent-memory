@@ -2504,6 +2504,10 @@ Paper-backed implementations are linked beside their papers above. The following
    vshulcz. [[GitHub](https://github.com/vshulcz/deja-vu)] [[Docs](https://vshulcz.github.io/deja-vu/)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
+1. **SynapCores (AI-Native Database with Agent Memory)**\
+   SynapCores. [[Website](https://synapcores.com)] [[GitHub](https://github.com/SynapCores/synapcores-releases)] [[Docs](https://docs.synapcores.com)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Self_Hosted-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-SQL_Vector_Graph-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
