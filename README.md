@@ -2524,8 +2524,8 @@ Paper-backed implementations are linked beside their papers above. The following
    vostride. [[Website](https://vostride.com)] [[GitHub](https://github.com/vostride/agent-qa)] [[Memory docs](https://vostride.com/docs/agent-qa/memory)] [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md).\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Governed_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
-1. **Memory Poisoning Lab**\
-   Rishabh Pande. [[GitHub](https://github.com/RishabhPande/memory-poison-lab)] Local memory-security teaching range with six synthetic poisoning cases, a scripted agent and recall/repair regression tests. Not an LLM benchmark or evidence of model safety.\
+1. **Memory Poisoning Lab (Local Memory-security Teaching Range)**\
+   Rishabh Pande. [[GitHub](https://github.com/RishabhPande/memory-poison-lab)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Security-lightgrey) ![](https://img.shields.io/badge/-Teaching-yellowgreen)
 
 [⬆️ top](#table-of-contents)
