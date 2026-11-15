@@ -1,6 +1,14 @@
-# Awesome Agent Memory
+
+# Awesome Agent Memory [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated taxonomy of **agent memory systems**, organized along four axes: (1) memory system architectures — from flat sequential context, to structural topological graphs/trees, to multi-paradigm hybrid containers; (2) reference baselines for comparison; (3) benchmarks for evaluation; and (4) surveys on agent memory.
+[![Stars](https://img.shields.io/github/stars/OpenDataBox/awesome-agent-memory?style=flat&color=yellow)](https://github.com/OpenDataBox/awesome-agent-memory/stargazers)
+[![Forks](https://img.shields.io/github/forks/OpenDataBox/awesome-agent-memory?style=flat&color=blue)](https://github.com/OpenDataBox/awesome-agent-memory/forks)
+[![Contributors](https://img.shields.io/github/contributors/OpenDataBox/awesome-agent-memory?style=flat&color=brightgreen)](https://github.com/OpenDataBox/awesome-agent-memory/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/OpenDataBox/awesome-agent-memory?style=flat&color=blueviolet)](https://github.com/OpenDataBox/awesome-agent-memory/commits/main)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.24775-b31b1b?style=flat)](https://arxiv.org/abs/2606.24775)
+
+![Agent Memory Taxonomy](AgentMemory.png)
 
 ## 📣 Get Involved
 
