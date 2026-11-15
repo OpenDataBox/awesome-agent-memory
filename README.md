@@ -86,6 +86,10 @@ Memory represented as a flat sequence, textual summary, note, trajectory, or exp
    Qianhao Yuan, Jie Lou, Zichao Li, et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2511.02805)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Retrieval-green)
 
+1. **Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction**\
+   Yunzhe Wang, Mesut Erhan Unal, Sheng Zhang, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2611.10439)]\
+   ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Procedural-yellowgreen) ![](https://img.shields.io/badge/-Multi_Agent-purple)
+
 1. **AutoMem: Automated Learning of Memory as a Cognitive Skill**\
    Shengguang Wu, Hao Zhu, Yuhui Zhang, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2607.01224)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Procedural-yellowgreen) ![](https://img.shields.io/badge/-Lifecycle-orange)
