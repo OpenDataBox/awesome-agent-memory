@@ -2541,3 +2541,11 @@ Paper-backed implementations are linked beside their papers above. The following
     url={https://arxiv.org/abs/2606.24775}
 }
 ```
+
+## Contributors
+
+Thanks to everyone who has contributed to this project!
+
+<a href="https://github.com/OpenDataBox/awesome-agent-memory/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OpenDataBox/awesome-agent-memory&max=100&columns=8" alt="Contributors" />
+</a>
