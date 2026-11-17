@@ -2535,6 +2535,10 @@ Paper-backed implementations are linked beside their papers above. The following
    Rishabh Pande. [[GitHub](https://github.com/RishabhPande/memory-poison-lab)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Security-lightgrey) ![](https://img.shields.io/badge/-Teaching-yellowgreen)
 
+1. **SQLite Graph Memory**\
+   tonydzi. [[GitHub](https://github.com/tonydzi/sqlite-graph-memory)]\
+   ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Graph_Memory-purple) ![](https://img.shields.io/badge/-MCP-lightgrey)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
