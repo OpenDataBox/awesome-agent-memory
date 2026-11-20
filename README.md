@@ -2535,6 +2535,10 @@ Paper-backed implementations are linked beside their papers above. The following
    Rishabh Pande. [[GitHub](https://github.com/RishabhPande/memory-poison-lab)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Security-lightgrey) ![](https://img.shields.io/badge/-Teaching-yellowgreen)
 
+1. **Cloud Alter Ego (Hosted Cross-Chat Memory over MCP)**\
+   Cafe Boon. [[Website](https://cloudalterego.cafeboon.com)] [[Docs](https://cloudalterego.cafeboon.com/docs.html)] [[GitHub](https://github.com/SebastiaanBoon/cloud-alter-ego)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Hosted_Memory-purple) ![](https://img.shields.io/badge/-Cross_Client-yellowgreen) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
