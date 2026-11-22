@@ -2015,6 +2015,10 @@ Each benchmark appears once under its primary evaluation purpose; third-line tag
 
 Benchmarks centered on answer quality, task success, action correctness, or end-to-end agent capability.
 
+1. **SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents**\
+   Youran Sun, Xingyu Ren, Chugang Yi, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2610.21082)] [[Code](https://github.com/AutoResearch-Factory/SciPIvot)] [[Dataset](https://huggingface.co/datasets/sun1245/SciPIvot)]\
+   ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Long_Horizon-purple)
+
 1. **EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**\
    Lizhou Liang, Xinyu Zhong, Miao Pan, et al. *arXiv 2026*. [[Paper](https://arxiv.org/abs/2609.28236)] [[Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)]\
    ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Multimodal-purple)
