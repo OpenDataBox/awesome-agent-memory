@@ -2535,6 +2535,10 @@ Paper-backed implementations are linked beside their papers above. The following
    Rishabh Pande. [[GitHub](https://github.com/RishabhPande/memory-poison-lab)]\
    ![](https://img.shields.io/badge/-Resource-lightgrey) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Security-lightgrey) ![](https://img.shields.io/badge/-Teaching-yellowgreen)
 
+1. **past.dev (Long-Term Memory API for AI Agents)**\
+   past.dev. [[Website](https://past.dev)] [[Docs](https://past.dev/docs/memory-api/overview)] [[MCP](https://github.com/pastdotdev/mcp)] [[Benchmarks](https://github.com/pastdotdev/benchmarks)]\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Hosted_Memory-purple) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
